@@ -1,6 +1,8 @@
+### This project is deployed at :https://mern-tracker-bd-demo.herokuapp.com/
+
 Simple and sweet Expense Tracker with backend logic where you can store your data and change any time .
 
-User can see `Total Money` , `Total Income` and `Total Expense` 
+User can see `Total Money`,`Current date`,`Time` , `Total Income` and `Total Expense` 
 
 ## Technology Stack
 
